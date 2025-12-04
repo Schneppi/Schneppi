@@ -22,7 +22,7 @@ When I’m not coding, I enjoy exploring ways to improve workflows, streamline p
 
 ## 🌟 Featured Project
 
-[![Stable Diffusion Prompter](https://github-readme-stats.vercel.app/api/pin/?username=Schneppi&repo=Stable-Diffusion-Prompter)](https://github.com/Schneppi/Stable-Diffusion-Prompter)
+[Stable Diffusion Prompter](https://github.com/Schneppi/Stable-Diffusion-Prompter)
 
 ---
 
