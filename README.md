@@ -20,9 +20,10 @@ When I’m not coding, I enjoy exploring ways to improve workflows, streamline p
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
-[Stable Diffusion Prompter](https://github.com/Schneppi/Stable-Diffusion-Prompter)
+- [Audio Meta](https://github.com/Schneppi/Audio-Meta)
+- [Stable Diffusion Prompter](https://github.com/Schneppi/Stable-Diffusion-Prompter)
 
 ---
 
