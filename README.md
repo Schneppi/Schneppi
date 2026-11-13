@@ -24,7 +24,7 @@ When I’m not coding, I enjoy exploring ways to improve workflows, streamline p
 
 - [Audio Meta](https://github.com/Schneppi/Audio-Meta)
 - [Stable Diffusion Prompter](https://github.com/Schneppi/Stable-Diffusion-Prompter)
-
+- [MarkdownArea](https://github.com/Schneppi/MarkdownArea)
 ---
 
 > "Exploring the universe, one line of code at a time." 🚀
